@@ -8,7 +8,7 @@ prompts the user to enter an employee's name,
     and FICA (i.e., 7.65%). 
  """
 #Import the wage function
-from wageFunction import calc_wage
+from practice8a import calc_wage
 
 # Initialize variables
 sName = input("Enter the employee's name: ")
